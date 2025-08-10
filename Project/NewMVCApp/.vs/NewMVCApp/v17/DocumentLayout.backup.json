@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\Projects\\NewMVCApp\\Project\\NewMVCApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65A415B0-C079-4842-9D06-B89EA060AF18}|NewMVCApp\\NewMVCApp.csproj|c:\\users\\monster\\desktop\\projects\\newmvcapp\\project\\newmvcapp\\newmvcapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A415B0-C079-4842-9D06-B89EA060AF18}|NewMVCApp\\NewMVCApp.csproj|solutionrelative:newmvcapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A415B0-C079-4842-9D06-B89EA060AF18}|NewMVCApp\\NewMVCApp.csproj|c:\\users\\monster\\desktop\\projects\\newmvcapp\\project\\newmvcapp\\newmvcapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{65A415B0-C079-4842-9D06-B89EA060AF18}|NewMVCApp\\NewMVCApp.csproj|solutionrelative:newmvcapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A415B0-C079-4842-9D06-B89EA060AF18}|NewMVCApp\\NewMVCApp.csproj|c:\\users\\monster\\desktop\\projects\\newmvcapp\\project\\newmvcapp\\newmvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A415B0-C079-4842-9D06-B89EA060AF18}|NewMVCApp\\NewMVCApp.csproj|solutionrelative:newmvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A415B0-C079-4842-9D06-B89EA060AF18}|NewMVCApp\\NewMVCApp.csproj|c:\\users\\monster\\desktop\\projects\\newmvcapp\\project\\newmvcapp\\newmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A415B0-C079-4842-9D06-B89EA060AF18}|NewMVCApp\\NewMVCApp.csproj|solutionrelative:newmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Projects\\NewMVCApp\\Project\\NewMVCApp\\NewMVCApp\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "NewMVCApp\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Projects\\NewMVCApp\\Project\\NewMVCApp\\NewMVCApp\\Models\\Item.cs",
+              "RelativeToolTip": "NewMVCApp\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T20:35:24.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Projects\\NewMVCApp\\Project\\NewMVCApp\\NewMVCApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "NewMVCApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Projects\\NewMVCApp\\Project\\NewMVCApp\\NewMVCApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "NewMVCApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-10T20:31:03.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Projects\\NewMVCApp\\Project\\NewMVCApp\\NewMVCApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NewMVCApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Projects\\NewMVCApp\\Project\\NewMVCApp\\NewMVCApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NewMVCApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T20:06:40.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Projects\\NewMVCApp\\Project\\NewMVCApp\\NewMVCApp\\Program.cs",
+              "RelativeDocumentMoniker": "NewMVCApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Projects\\NewMVCApp\\Project\\NewMVCApp\\NewMVCApp\\Program.cs",
+              "RelativeToolTip": "NewMVCApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T20:01:49.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
